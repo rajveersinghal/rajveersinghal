@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m Pursuing MCA' at SRM University<br>🤝 I’m looking for Data Scientist Job<br>🌱 I’m currently learning Machine learning & Deep learning<br>💬 Ask me about AI
 
-https://github.com/perisicnikola37/perisicnikola37
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=rajveersinghal)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rajveer-singhal/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@singhalrajveer7) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:singhalrajveer7@gmail.com) 
