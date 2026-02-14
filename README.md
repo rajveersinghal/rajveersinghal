@@ -1,100 +1,147 @@
-# 👋 Hi, I’m Rajveer Singhal  
+<h1 align="center">Hi 👋, I'm Rajveer Singhal</h1>
+<h3 align="center">Aspiring Data Scientist | MCA @ SRM University (Delhi-NCR)</h3>
 
-🚀 **Aspiring Data Scientist | MCA @ SRM University (Delhi-NCR)**  
-💡 Passionate about building **AI-powered, real-world solutions** that turn raw data into intelligent decisions.
+<p align="center">
+🚀 Turning Data into Decisions • 🤖 AI & ML Enthusiast • 🌍 Building Real-World Systems
+</p>
 
 ---
 
 ## 💫 About Me
 
-- 🎓 Pursuing **Master of Computer Applications (MCA)** with a specialization in **Data Science**
-- 🔍 Actively seeking **Data Scientist / Junior Data Scientist / Data Analyst** roles
-- 🤖 Strong interest in **Machine Learning, Deep Learning & AI Systems**
-- 🛠️ Love building **end-to-end data products** (data → model → deployment)
-- 💬 Ask me about **AI, ML, data analysis, or project architecture**
+🎓 **Master of Computer Applications (MCA)** – Data Science  
+📍 SRM University, Delhi-NCR  
+🔍 **Actively seeking roles**: Data Scientist | Junior Data Scientist | Data Analyst  
 
-> I believe good data science is not just about models — it’s about **impact, explainability, and scalability**.
+I am a **hands-on, project-driven data science professional** focused on building **end-to-end AI systems** — from raw data ingestion to model deployment and explainable insights.
 
-![Profile view counter](https://komarev.com/ghpvc/?username=rajveersinghal)
-
----
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajveer-singhal/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@singhalrajveer7)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:singhalrajveer7@gmail.com)
+I believe:
+> **Models don’t create value. Decisions do.**  
+That’s why I focus on automation, explainability, and real-world impact.
 
 ---
 
-## 🧠 What I Do Best
+## 🧠 Core Strengths
 
-- 📊 **Data Analysis & Visualization** – EDA, dashboards, insights for decision-making  
-- 🤖 **Machine Learning** – Regression, classification, feature engineering, evaluation  
-- 🧠 **Deep Learning** – Neural networks using TensorFlow & PyTorch  
-- 🌐 **ML App Development** – Flask, Django, Streamlit  
-- ☁️ **Deployment & MLOps** – Docker, MLflow, cloud platforms  
+- 📊 Data Cleaning, EDA & Insight Generation  
+- 🤖 Machine Learning (Regression, Classification, Feature Engineering)  
+- 🧠 Deep Learning (ANNs, CNNs, Model Optimization)  
+- 🧪 Model Evaluation & Explainability  
+- 🌐 ML Application Development (APIs & Dashboards)  
+- ☁️ Deployment, Monitoring & MLOps Basics  
+
+---
+
+## 🚀 Featured Project Highlights
+
+🔹 **Autonomous Data Intelligence Platform**  
+- Automated data cleaning, analysis, modeling & explainability  
+- Minimal human intervention  
+- Built for non-technical decision makers  
+
+🔹 **AI Resume–Job Matching System**  
+- NLP-based resume parsing & skill extraction  
+- Resume–JD similarity scoring  
+- Skill gap & job recommendation engine  
+
+🔹 **Interactive Analytics Dashboards**  
+- Business-ready dashboards using Power BI & Python  
+- KPI tracking & actionable insights  
+
+🔹 **End-to-End ML Applications**  
+- Trained models deployed using Flask/Streamlit  
+- Cloud-hosted with Docker & CI-ready structure  
 
 ---
 
 ## 💻 Tech Stack
 
-**Languages & Core**
+### 🧑‍💻 Programming & Databases
 - Python, Java, SQL  
-
-**Data Science & ML**
-- NumPy, Pandas, SciPy, Matplotlib, Plotly  
-- Scikit-learn, TensorFlow, Keras, PyTorch  
-
-**Web & APIs**
-- Flask, Django, Streamlit, Postman  
-
-**Databases**
 - PostgreSQL  
 
-**Cloud & Deployment**
-- AWS, Azure, Docker  
+### 📊 Data Science & ML
+- NumPy, Pandas, SciPy  
+- Matplotlib, Plotly  
+- Scikit-learn  
+- TensorFlow, Keras, PyTorch  
+
+### 🌐 Web & APIs
+- Flask, Django, Streamlit  
+- Postman  
+
+### ☁️ Cloud, Deployment & MLOps
+- AWS, Azure  
+- Docker, MLflow  
 - Render, Netlify, Firebase, Heroku  
 
-**Analytics & Tools**
-- Power BI, MLflow, Git, Canva  
+### 📈 Analytics & Tools
+- Power BI  
+- Git & GitHub  
+- Canva  
 
 ---
 
-## 🚀 Featured Work (Highlights)
+## 🌐 Connect With Me
 
-- 🧠 **AI-Powered Resume & Job Matching System** – NLP-based resume analysis and skill recommendation  
-- 📊 **Autonomous Data Intelligence Platform** – Automated data cleaning, analysis, modeling & explainability  
-- 📈 **Interactive Dashboards** – Business-ready insights using Power BI & Python  
-- 🌐 **Deployed ML Apps** – End-to-end ML pipelines with real-time predictions  
-
-> Repositories focus on **clean code, real-world use cases, and production-ready structure**.
+<p align="left">
+<a href="https://www.linkedin.com/in/rajveer-singhal/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://medium.com/@singhalrajveer7" target="_blank">
+<img src="https://img.shields.io/badge/Medium-12100E?style=plastic&logo=medium&logoColor=white"/>
+</a>
+<a href="mailto:singhalrajveer7@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white"/>
+</a>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Full)
 
-![](https://github-readme-stats.vercel.app/api?username=rajveersinghal&theme=transparent&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=rajveersinghal&theme=transparent)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajveersinghal&theme=transparent&layout=compact)
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=rajveersinghal&label=Profile%20Views&color=0e75b6&style=plastic" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=rajveersinghal&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajveersinghal&theme=transparent&layout=compact&langs_count=8" height="170"/>
+</p>
+
+<p align="center">
+<img src="https://nirzak-streak-stats.vercel.app/?user=rajveersinghal&theme=transparent" />
+</p>
 
 ---
 
 ## 🏆 GitHub Achievements
 
-![](https://github-profile-trophy.vercel.app/?username=rajveersinghal&theme=transparent&no-frame=true&margin-w=4)
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=rajveersinghal&theme=transparent&no-frame=true&margin-w=8"/>
+</p>
 
 ---
 
-## 🔝 Top Contributions
+## 🔝 Contribution Stats
 
-![](https://github-contributor-stats.vercel.app/api?username=rajveersinghal&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+<p align="center">
+<img src="https://github-contributor-stats.vercel.app/api?username=rajveersinghal&limit=5&theme=transparent&combine_all_yearly_contributions=true"/>
+</p>
 
 ---
 
-### 📌 Final Note
+## 📌 Final Words
 
-✨ I’m always open to **internships, full-time roles, collaborations, and learning opportunities**.  
-If you’re a recruiter or founder looking for a **driven, hands-on data scientist** — let’s connect.
+✨ I’m always open to:
+- Full-time roles  
+- Internships  
+- Freelance & collaborations  
+- Research & hackathons  
 
-[![](https://visitcount.itsvg.in/api?id=rajveersinghal&icon=2&color=0)](https://visitcount.itsvg.in)
+If you’re looking for someone who **builds, deploys, and thinks beyond notebooks** —  
+📩 **Let’s connect.**
+
+<p align="center">
+<img src="https://visitcount.itsvg.in/api?id=rajveersinghal&icon=2&color=0"/>
+</p>
