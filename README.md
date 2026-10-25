@@ -4,7 +4,7 @@
 
 I'm a recent MCA graduate passionate about **Data Analytics**, **Python development**, and **AI automation**. I enjoy working with Python, SQL, data, APIs, and web technologies to build practical solutions, and I use modern AI tools to prototype ideas, automate workflows, and turn concepts into working projects. I'm currently looking for opportunities to grow as a **Data Analyst** or **Python Developer**.
 
-- 🌍 Based in Pune, Maharashtra, India
+- 🌍 Based in New Delhi, India
 - 🖥️ Portfolio: [rajveersinghal.vercel.app](http://rajveersinghal.vercel.app/)
 - ✉️ Reach me at [singhalrajveer7@gmail.com](mailto:singhalrajveer7@gmail.com)
 - 🧠 Currently learning: Advanced Python, SQL, Data Analytics, Power BI, and AI-assisted development
